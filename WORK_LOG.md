@@ -1,9 +1,11 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |      Time      |                                                                                                                                                                                                                                                                                                                                                                                                            Update |
+|:-------|:--------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Jan 13 |     5-6 PM     |                                                                                                                                                     I first thought to approach this problem iteratively, I thought about trying a recursive approach but am going to stick with iterative for now. My first thought is to find the lowest number in the array, then check for the next biggest number and so on. |
+| Jan 15 | 8:55 = 9:55 AM | So I was correct in thinking about approaching this recursively. I spend the first half an hour or so thinking out a possible solution, my first idea was the find the lowest number, and then call the recursive function to detect whether or not a number should be skipped. Mr. Blick told me about a different method in which I start with the largest number and make my way to the left instead of right. |
+| Jan 15 |     6-7 PM     |                                                                                                                                                                 I spent this time trying to make sense of what Mr. Blick had suggested. Although my code isn't correct yet, I feel as if it is a step in the right direction. But for now, I have a strong foundation of what I am going to build my code off of. |
+|        |                |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
